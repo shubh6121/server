@@ -105,3 +105,13 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R3.Login
 [12:05:28] [Server thread/INFO]: [Geyser-Spigot] Done (2.856s)! Run /geyser help for help!
 [12:05:28] [Server thread/INFO]: Done (17.236s)! For help, type "help"
 [12:05:28] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[12:42:23] [User Authenticator #1/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[12:42:23] [Server thread/INFO]: Shubh121 joined the game
+[12:42:23] [Server thread/INFO]: Shubh121[/127.78.16.198:50841] logged in with entity id 362 at ([world_nether]6.131883655568913, 95.0, 3.5)
+[12:42:36] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[12:42:36] [Server thread/INFO]: Shubh121 left the game
+[12:42:50] [User Authenticator #2/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[12:42:50] [Server thread/INFO]: Shubh121 joined the game
+[12:42:50] [Server thread/INFO]: Shubh121[/127.78.16.198:53117] logged in with entity id 416 at ([world_nether]6.131883655568913, 95.0, 3.5)
+[12:43:12] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[12:43:12] [Server thread/INFO]: Shubh121 left the game
