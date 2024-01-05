@@ -115,3 +115,23 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R3.Login
 [12:42:50] [Server thread/INFO]: Shubh121[/127.78.16.198:53117] logged in with entity id 416 at ([world_nether]6.131883655568913, 95.0, 3.5)
 [12:43:12] [Server thread/INFO]: Shubh121 lost connection: Disconnected
 [12:43:12] [Server thread/INFO]: Shubh121 left the game
+[13:56:58] [Server thread/INFO]: Stopping the server
+[13:56:58] [Server thread/INFO]: Stopping server
+[13:56:58] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.0-SNAPSHOT
+[13:56:58] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[13:56:58] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[13:56:58] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.1
+[13:56:58] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[13:56:58] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
+[13:56:58] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:56:58] [Server thread/INFO]: [ViaVersion] Empty pipeline, nothing to uninject
+[13:56:58] [Server thread/INFO]: Saving players
+[13:56:58] [Server thread/INFO]: Saving worlds
+[13:56:58] [WebSocketConnectReadThread-173/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[13:57:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:57:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:57:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:57:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:57:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:57:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:57:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
