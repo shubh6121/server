@@ -1,66 +1,80 @@
-[07:08:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:08:39] [ServerMain/INFO]: Loaded 7 recipes
-[07:08:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[07:08:40] [Server thread/INFO]: Loading properties
-[07:08:40] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[07:08:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[07:08:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[07:08:41] [Server thread/INFO]: Debug logging is disabled
-[07:08:41] [Server thread/INFO]: Default game type: SURVIVAL
-[07:08:41] [Server thread/INFO]: Generating keypair
-[07:08:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:08:42] [Server thread/INFO]: Using epoll channel type
-[07:08:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:08:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:08:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:08:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:08:42] [Server thread/INFO]: Preparing level "world"
-[07:08:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[07:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[07:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[07:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[07:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[07:09:00] [Server thread/INFO]: Time elapsed: 11401 ms
-[07:09:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:06] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[07:09:06] [Server thread/INFO]: Time elapsed: 5495 ms
-[07:09:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:09:10] [Server thread/INFO]: Time elapsed: 3407 ms
-[07:09:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:09:10] [Server thread/INFO]: Done (27.539s)! For help, type "help"
+[07:15:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:15:33] [ServerMain/INFO]: Loaded 7 recipes
+[07:15:34] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[07:15:34] [Server thread/INFO]: Loading properties
+[07:15:34] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[07:15:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:15:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:15:35] [Server thread/INFO]: Debug logging is disabled
+[07:15:35] [Server thread/INFO]: Default game type: SURVIVAL
+[07:15:35] [Server thread/INFO]: Generating keypair
+[07:15:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:15:36] [Server thread/INFO]: Using epoll channel type
+[07:15:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:15:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:15:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:15:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:15:36] [Server thread/INFO]: Preparing level "world"
+[07:15:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[07:15:52] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[07:15:52] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[07:15:53] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[07:15:53] [Worker-Main-1/INFO]: Preparing spawn area: 50%
+[07:15:53] [Server thread/INFO]: Time elapsed: 10842 ms
+[07:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:15:57] [Server thread/INFO]: Time elapsed: 3839 ms
+[07:15:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:16:01] [Server thread/INFO]: Time elapsed: 3630 ms
+[07:16:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:16:01] [Server thread/INFO]: Done (25.228s)! For help, type "help"
+[07:16:10] [User Authenticator #1/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[07:16:11] [Server thread/INFO]: Shubh121 joined the game
+[07:16:11] [Server thread/INFO]: Shubh121[/127.27.123.145:56883] logged in with entity id 260 at ([world]53.217840829453166, 72.0, 28.34577500808542)
+[07:16:43] [Server thread/INFO]: Shubh121 tried to swim in lava
+[07:16:50] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[07:16:50] [Server thread/INFO]: Shubh121 left the game
+[07:16:54] [Server thread/INFO]: Stopping the server
+[07:16:54] [Server thread/INFO]: Stopping server
+[07:16:54] [Server thread/INFO]: Saving players
+[07:16:54] [Server thread/INFO]: Saving worlds
+[07:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:17:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:17:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:17:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

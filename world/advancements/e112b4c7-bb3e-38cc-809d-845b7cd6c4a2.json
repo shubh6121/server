@@ -8,9 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-01-04 06:58:19 +0000",
+      "minecraft:forest": "2024-01-04 06:57:09 +0000",
       "minecraft:river": "2024-01-04 05:36:18 +0000",
       "minecraft:lukewarm_ocean": "2024-01-04 06:58:24 +0000",
-      "minecraft:forest": "2024-01-04 06:57:09 +0000",
       "minecraft:savanna": "2023-12-30 07:03:24 +0000",
       "minecraft:plains": "2024-01-04 06:50:58 +0000"
     },
@@ -260,8 +260,8 @@
     "criteria": {
       "minecraft:skeleton": "2023-12-30 07:21:58 +0000",
       "minecraft:spider": "2023-12-30 07:21:24 +0000",
-      "minecraft:creeper": "2023-12-30 07:16:56 +0000",
-      "minecraft:zombie": "2023-12-30 07:17:21 +0000"
+      "minecraft:zombie": "2023-12-30 07:17:21 +0000",
+      "minecraft:creeper": "2023-12-30 07:16:56 +0000"
     },
     "done": false
   },
@@ -1604,12 +1604,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-01-05 05:52:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-01-05 05:52:37 +0000"
@@ -1622,5 +1616,12 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-01-05 05:52:38 +0000",
+      "minecraft:basalt_deltas": "2024-01-05 07:16:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
 }
