@@ -1,33 +1,66 @@
-[06:48:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:48:40] [ServerMain/INFO]: Loaded 1174 recipes
-[06:48:41] [ServerMain/INFO]: Loaded 1271 advancements
-[06:48:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[06:48:41] [Server thread/INFO]: Loading properties
-[06:48:41] [Server thread/INFO]: This server is running Paper version git-Paper-377 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 25a99b1)
-[06:48:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:48:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:48:43] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[06:48:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[06:48:44] [Server thread/INFO]: Default game type: SURVIVAL
-[06:48:44] [Server thread/INFO]: Generating keypair
-[06:48:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:48:44] [Server thread/INFO]: Using epoll channel type
-[06:48:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:48:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[06:48:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:48:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:48:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:48:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:48:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:48:44] [Server thread/INFO]: Preparing level "world"
-[06:48:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:48:46] [Server thread/INFO]: Time elapsed: 372 ms
-[06:48:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[06:48:46] [Server thread/INFO]: Time elapsed: 393 ms
-[06:48:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[06:48:48] [Server thread/INFO]: Time elapsed: 1583 ms
-[06:48:48] [Server thread/INFO]: Running delayed init tasks
-[06:48:48] [Server thread/INFO]: Done (6.756s)! For help, type "help"
-[06:48:48] [Server thread/INFO]: Timings Reset
+[07:08:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:08:39] [ServerMain/INFO]: Loaded 7 recipes
+[07:08:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[07:08:40] [Server thread/INFO]: Loading properties
+[07:08:40] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[07:08:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:08:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:08:41] [Server thread/INFO]: Debug logging is disabled
+[07:08:41] [Server thread/INFO]: Default game type: SURVIVAL
+[07:08:41] [Server thread/INFO]: Generating keypair
+[07:08:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:08:42] [Server thread/INFO]: Using epoll channel type
+[07:08:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:08:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:08:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:08:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:08:42] [Server thread/INFO]: Preparing level "world"
+[07:08:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[07:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[07:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[07:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 19%
+[07:09:00] [Worker-Main-1/INFO]: Preparing spawn area: 42%
+[07:09:00] [Server thread/INFO]: Time elapsed: 11401 ms
+[07:09:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:06] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[07:09:06] [Server thread/INFO]: Time elapsed: 5495 ms
+[07:09:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:09:10] [Server thread/INFO]: Time elapsed: 3407 ms
+[07:09:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:09:10] [Server thread/INFO]: Done (27.539s)! For help, type "help"
