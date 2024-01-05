@@ -1,78 +1,77 @@
-[07:20:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:20:55] [ServerMain/INFO]: Loaded 7 recipes
-[07:20:56] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[07:20:56] [Server thread/INFO]: Loading properties
-[07:20:56] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[07:20:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[07:20:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[07:20:57] [Server thread/INFO]: Debug logging is disabled
-[07:20:57] [Server thread/INFO]: Default game type: SURVIVAL
-[07:20:57] [Server thread/INFO]: Generating keypair
-[07:20:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:20:57] [Server thread/INFO]: Using epoll channel type
-[07:20:58] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.2
-[07:20:58] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
-[07:20:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[07:20:59] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[07:20:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[07:20:59] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[07:21:00] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[07:21:00] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[07:21:00] [Server thread/INFO]: [floodgate] Took 634ms to boot Floodgate
-[07:21:00] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.1
-[07:21:00] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.2.0-SNAPSHOT
-[07:21:01] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[07:21:01] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[07:21:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:21:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:21:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:21:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:21:01] [Server thread/INFO]: Preparing level "world"
-[07:21:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:21:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:17] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[07:21:18] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[07:21:19] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[07:21:19] [Server thread/INFO]: Time elapsed: 9636 ms
-[07:21:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:23] [Server thread/INFO]: Time elapsed: 4040 ms
-[07:21:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:21:27] [Server thread/INFO]: Time elapsed: 3944 ms
-[07:21:27] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
-[07:21:27] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
-[07:21:27] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[07:21:27] [Server thread/ERROR]: Error occurred while enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c) (Is it up to date?)
+[07:25:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:25:43] [ServerMain/INFO]: Loaded 7 recipes
+[07:25:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[07:25:44] [Server thread/INFO]: Loading properties
+[07:25:44] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[07:25:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:25:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:25:45] [Server thread/INFO]: Debug logging is disabled
+[07:25:45] [Server thread/INFO]: Default game type: SURVIVAL
+[07:25:45] [Server thread/INFO]: Generating keypair
+[07:25:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:25:46] [Server thread/INFO]: Using epoll channel type
+[07:25:46] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.2
+[07:25:46] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[07:25:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[07:25:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[07:25:47] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[07:25:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[07:25:48] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[07:25:48] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[07:25:48] [Server thread/INFO]: [floodgate] Took 564ms to boot Floodgate
+[07:25:48] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.1
+[07:25:48] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.2.0-SNAPSHOT
+[07:25:49] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[07:25:49] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[07:25:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:25:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:25:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:25:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:25:49] [Server thread/INFO]: Preparing level "world"
+[07:25:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[07:26:06] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[07:26:06] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[07:26:07] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[07:26:07] [Server thread/INFO]: Time elapsed: 9395 ms
+[07:26:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:11] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[07:26:12] [Server thread/INFO]: Time elapsed: 4753 ms
+[07:26:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:26:16] [Server thread/INFO]: Time elapsed: 3337 ms
+[07:26:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[07:26:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[07:26:16] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[07:26:16] [Server thread/ERROR]: Error occurred while enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c) (Is it up to date?)
 java.lang.ExceptionInInitializerError: null
 	at org.geysermc.floodgate.inject.spigot.SpigotInjector.getServerConnection(SpigotInjector.java:173) ~[?:?]
 	at org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:62) ~[?:?]
@@ -105,38 +104,26 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R3.Login
 	at org.geysermc.floodgate.util.ReflectionUtils.getClassOrFallback(ReflectionUtils.java:131) ~[?:?]
 	at org.geysermc.floodgate.util.ClassNames.<clinit>(ClassNames.java:186) ~[?:?]
 	... 15 more
-[07:21:27] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
-[07:21:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] 
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-592a58a)
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] 
-[07:21:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[07:21:32] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[07:21:32] [Server thread/INFO]: [Geyser-Spigot] Done (5.045s)! Run /geyser help for help!
-[07:21:32] [Server thread/INFO]: Done (30.954s)! For help, type "help"
-[07:21:33] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[07:21:33] [Thread-9/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[07:21:33] [Thread-14/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[07:21:36] [Thread-14/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[07:22:07] [Server thread/INFO]: Stopping the server
-[07:22:07] [Server thread/INFO]: Stopping server
-[07:22:07] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.0-SNAPSHOT
-[07:22:07] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[07:22:07] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[07:22:07] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.1
-[07:22:07] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[07:22:07] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
-[07:22:07] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[07:22:07] [Server thread/INFO]: [ViaVersion] Empty pipeline, nothing to uninject
-[07:22:07] [Server thread/INFO]: Saving players
-[07:22:07] [Server thread/INFO]: Saving worlds
-[07:22:07] [WebSocketConnectReadThread-68/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[07:22:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:22:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:23:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:23:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:23:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:23:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:23:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:26:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
+[07:26:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] 
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-592a58a)
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] 
+[07:26:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:26:21] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:4326
+[07:26:21] [Server thread/INFO]: [Geyser-Spigot] Done (5.091s)! Run /geyser help for help!
+[07:26:21] [Server thread/INFO]: Done (32.073s)! For help, type "help"
+[07:26:21] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[07:26:43] [User Authenticator #1/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[07:26:44] [Server thread/INFO]: Shubh121 joined the game
+[07:26:44] [Server thread/INFO]: Shubh121[/127.27.123.145:37009] logged in with entity id 359 at ([world]55.501339390563544, 72.875, 27.629776102626476)
+[07:27:29] [Server thread/INFO]: Gamerule keepInventory is now set to: true
+[07:27:36] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /127.244.180.171:48816 tried to connect!
+[07:27:39] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username LordVivan9092
+[07:27:39] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] LordVivan9092 (logged in as: LordVivan9092) has connected to the Java server
+[07:27:39] [User Authenticator #2/INFO]: UUID of player LordVivan9092 is 8d22fa23-299c-3e86-92d5-e062dcfc7d6d
+[07:27:39] [Server thread/INFO]: LordVivan9092 joined the game
+[07:27:39] [Server thread/INFO]: LordVivan9092[/127.244.180.171:0] logged in with entity id 469 at ([world]3.5, 65.0, 2.5)
+[07:28:21] [Thread-2/INFO]: Stopping server
