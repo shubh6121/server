@@ -7,16 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-01-05 09:24:14 +0000",
       "minecraft:beach": "2024-01-04 06:58:19 +0000",
       "minecraft:dark_forest": "2024-01-05 09:24:54 +0000",
       "minecraft:forest": "2024-01-04 06:57:09 +0000",
       "minecraft:sparse_jungle": "2024-01-05 09:22:21 +0000",
       "minecraft:river": "2024-01-04 05:36:18 +0000",
       "minecraft:lukewarm_ocean": "2024-01-04 06:58:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-01-05 09:24:14 +0000",
+      "minecraft:meadow": "2024-01-06 07:36:09 +0000",
       "minecraft:birch_forest": "2024-01-05 09:24:07 +0000",
       "minecraft:savanna": "2023-12-30 07:03:24 +0000",
-      "minecraft:plains": "2024-01-04 06:50:58 +0000"
+      "minecraft:windswept_savanna": "2024-01-06 07:39:28 +0000",
+      "minecraft:plains": "2024-01-04 06:50:58 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-01-06 07:45:56 +0000"
     },
     "done": false
   },
@@ -2331,13 +2334,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_polished_granite": "2024-01-05 15:11:44 +0000"
+      "has_leather": "2024-01-05 14:27:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-01-05 14:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-01-05 14:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-01-05 14:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-01-05 14:27:27 +0000"
     },
@@ -2355,18 +2376,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-01-05 15:00:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2024-01-05 15:11:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-01-05 14:29:17 +0000"
@@ -2376,18 +2385,6 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-01-05 14:29:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-01-05 14:27:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-01-05 14:27:27 +0000"
     },
     "done": true
   },
@@ -2403,15 +2400,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
-      "has_leather": "2024-01-05 14:27:27 +0000"
+      "has_deepslate_tiles": "2024-01-05 14:29:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_leather": "2024-01-05 14:27:27 +0000"
+      "deflected_projectile": "2024-01-05 15:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-01-05 15:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-01-05 15:11:44 +0000"
     },
     "done": true
   },
@@ -2427,9 +2436,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_deepslate_tiles": "2024-01-05 14:29:17 +0000"
+      "has_cocoa_beans": "2024-01-06 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-01-06 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-01-06 07:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-01-06 07:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-01-06 07:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-01-06 07:48:18 +0000"
     },
     "done": true
   },

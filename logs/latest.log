@@ -1,72 +1,64 @@
-[14:02:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:02:32] [ServerMain/INFO]: Loaded 7 recipes
-[14:02:33] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[14:02:33] [Server thread/INFO]: Loading properties
-[14:02:33] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
-[14:02:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:02:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:02:34] [Server thread/INFO]: Debug logging is disabled
-[14:02:34] [Server thread/INFO]: Default game type: SURVIVAL
-[14:02:34] [Server thread/INFO]: Generating keypair
-[14:02:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:02:34] [Server thread/INFO]: Using epoll channel type
-[14:02:35] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.2
-[14:02:35] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
-[14:02:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[14:02:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[14:02:35] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[14:02:35] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[14:02:35] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[14:02:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[14:02:36] [Server thread/INFO]: [floodgate] Took 381ms to boot Floodgate
-[14:02:36] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.1
-[14:02:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.2.0-SNAPSHOT
-[14:02:36] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[14:02:36] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[14:02:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:02:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:02:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:02:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:02:36] [Server thread/INFO]: Preparing level "world"
-[14:02:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:02:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:02:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:02:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:44] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[14:02:45] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[14:02:45] [Worker-Main-3/INFO]: Preparing spawn area: 54%
-[14:02:45] [Worker-Main-2/INFO]: Preparing spawn area: 60%
-[14:02:46] [Worker-Main-3/INFO]: Preparing spawn area: 60%
-[14:02:47] [Worker-Main-3/INFO]: Preparing spawn area: 79%
-[14:02:47] [Worker-Main-1/INFO]: Preparing spawn area: 80%
-[14:02:47] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[14:02:48] [Worker-Main-1/INFO]: Preparing spawn area: 92%
-[14:02:48] [Worker-Main-3/INFO]: Preparing spawn area: 94%
-[14:02:49] [Server thread/INFO]: Time elapsed: 9687 ms
-[14:02:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:02:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:02:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:02:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:51] [Worker-Main-3/INFO]: Preparing spawn area: 11%
-[14:02:51] [Server thread/INFO]: Time elapsed: 2388 ms
-[14:02:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:02:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:02:53] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[14:02:53] [Server thread/INFO]: Time elapsed: 1597 ms
-[14:02:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
-[14:02:53] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
-[14:02:53] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
-[14:02:53] [Server thread/ERROR]: Error occurred while enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c) (Is it up to date?)
+[10:52:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:52:25] [ServerMain/INFO]: Loaded 7 recipes
+[10:52:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[10:52:26] [Server thread/INFO]: Loading properties
+[10:52:26] [Server thread/INFO]: This server is running CraftBukkit version 4005-Spigot-828f059-dd8cca3 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[10:52:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:52:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:52:27] [Server thread/INFO]: Debug logging is disabled
+[10:52:27] [Server thread/INFO]: Default game type: SURVIVAL
+[10:52:27] [Server thread/INFO]: Generating keypair
+[10:52:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:52:27] [Server thread/INFO]: Using epoll channel type
+[10:52:27] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.2
+[10:52:27] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[10:52:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:52:28] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:52:28] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[10:52:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:52:28] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[10:52:29] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[10:52:29] [Server thread/INFO]: [floodgate] Took 754ms to boot Floodgate
+[10:52:29] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.1
+[10:52:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.2.0-SNAPSHOT
+[10:52:29] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:52:29] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:52:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:52:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:52:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:52:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:52:30] [Server thread/INFO]: Preparing level "world"
+[10:52:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:52:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:52:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:52:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:52:37] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[10:52:38] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[10:52:38] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[10:52:38] [Server thread/INFO]: Time elapsed: 6005 ms
+[10:52:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:52:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:52:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:41] [Server thread/INFO]: Time elapsed: 2413 ms
+[10:52:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:52:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:52:42] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[10:52:42] [Server thread/INFO]: Time elapsed: 1542 ms
+[10:52:42] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[10:52:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[10:52:42] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[10:52:42] [Server thread/ERROR]: Error occurred while enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c) (Is it up to date?)
 java.lang.ExceptionInInitializerError: null
 	at org.geysermc.floodgate.inject.spigot.SpigotInjector.getServerConnection(SpigotInjector.java:173) ~[?:?]
 	at org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:62) ~[?:?]
@@ -99,155 +91,69 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R3.Login
 	at org.geysermc.floodgate.util.ReflectionUtils.getClassOrFallback(ReflectionUtils.java:131) ~[?:?]
 	at org.geysermc.floodgate.util.ClassNames.<clinit>(ClassNames.java:186) ~[?:?]
 	... 15 more
-[14:02:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
-[14:02:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] 
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-592a58a)
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] 
-[14:02:53] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:02:55] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:4326
-[14:02:55] [Server thread/INFO]: [Geyser-Spigot] Done (2.735s)! Run /geyser help for help!
-[14:02:55] [Server thread/INFO]: Done (19.187s)! For help, type "help"
-[14:02:56] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[14:05:42] [User Authenticator #1/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
-[14:05:42] [Server thread/INFO]: Shubh121 joined the game
-[14:05:42] [Server thread/INFO]: Shubh121[/127.160.8.23:47479] logged in with entity id 374 at ([world]53.66148644032604, 72.0, 30.145615674407065)
-[14:05:49] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /127.244.180.171:48801 tried to connect!
-[14:05:52] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username LordVivan9092
-[14:05:52] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] LordVivan9092 (logged in as: LordVivan9092) has connected to the Java server
-[14:05:52] [User Authenticator #2/INFO]: UUID of player LordVivan9092 is 8d22fa23-299c-3e86-92d5-e062dcfc7d6d
-[14:05:52] [Server thread/INFO]: LordVivan9092 joined the game
-[14:05:52] [Server thread/INFO]: LordVivan9092[/127.244.180.171:0] logged in with entity id 497 at ([world]-2.5, 66.0, 7.5)
-[14:06:37] [Server thread/INFO]: LordVivan9092 has made the advancement [Sweet Dreams]
-[14:06:50] [Server thread/INFO]: LordVivan9092 has made the advancement [Cover Me with Diamonds]
-[14:07:00] [Server thread/INFO]: LordVivan9092 has made the advancement [Acquire Hardware]
-[14:07:01] [Server thread/INFO]: LordVivan9092 has made the advancement [Diamonds!]
-[14:07:53] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[14:11:29] [Server thread/INFO]: LordVivan9092 has made the advancement [Stone Age]
-[14:13:44] [Server thread/INFO]: Shubh121 lost connection: Timed out
-[14:13:44] [Server thread/INFO]: Shubh121 left the game
-[14:13:58] [User Authenticator #3/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
-[14:13:58] [Server thread/INFO]: Shubh121 joined the game
-[14:13:58] [Server thread/INFO]: Shubh121[/127.22.228.115:35503] logged in with entity id 1816 at ([world]53.39279468582931, 72.0, 29.86804004271195)
-[14:17:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> bro we shouldmake
-[14:17:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> xp farm
-[14:19:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Shubh121> give me left over
-[14:20:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Shubh121> you hade make 56
-[14:21:07] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[14:21:20] [Async Chat Thread - #5/INFO]: [Not Secure] <LordVivan9092> nice
-[14:22:51] [Async Chat Thread - #7/INFO]: [Not Secure] <Shubh121> no
-[14:22:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Shubh121> bro why
-[14:25:00] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[14:25:40] [Server thread/INFO]: Shubh121 lost connection: Disconnected
-[14:25:40] [Server thread/INFO]: Shubh121 left the game
-[14:25:55] [User Authenticator #4/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
-[14:25:55] [Server thread/INFO]: Shubh121 joined the game
-[14:25:55] [Server thread/INFO]: Shubh121[/127.22.228.115:59587] logged in with entity id 3716 at ([world]49.68021503635632, 29.0, -34.58086490341902)
-[14:27:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Shubh121> lol
-[14:28:47] [Server thread/INFO]: LordVivan9092 has made the advancement [A Throwaway Joke]
-[14:28:50] [Server thread/INFO]: LordVivan9092 has made the advancement [Monster Hunter]
-[14:29:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Shubh121> hat ja wahah se
-[14:30:00] [Async Chat Thread - #10/INFO]: [Not Secure] <LordVivan9092> heart
-[14:30:12] [Async Chat Thread - #11/INFO]: [Not Secure] <LordVivan9092> tell
-[14:30:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Shubh121> ha
-[14:32:30] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[14:34:02] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[14:34:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Shubh121> bro make a xp farm
-[14:36:11] [Async Chat Thread - #15/INFO]: [Not Secure] <LordVivan9092> afk hu
-[14:36:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Shubh121> ok
-[14:38:41] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[14:38:49] [Async Chat Thread - #17/INFO]: [Not Secure] <LordVivan9092> thank 
-[14:39:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Shubh121> welcome :)
-[14:40:19] [Server thread/INFO]: LordVivan9092 has made the advancement [Suit Up]
-[14:41:20] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[14:41:26] [Async Chat Thread - #19/INFO]: [Not Secure] <Shubh121> ab bol
-[14:41:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Shubh121> ab bol
-[14:41:48] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[14:41:55] [Async Chat Thread - #19/INFO]: [Not Secure] <LordVivan9092> ab bol
-[14:43:58] [Async Chat Thread - #21/INFO]: [Not Secure] <Shubh121> wait bro
-[14:44:12] [Async Chat Thread - #21/INFO]: [Not Secure] <LordVivan9092> kya hua 
-[14:45:54] [Async Chat Thread - #23/INFO]: [Not Secure] <Shubh121> sorry
-[14:46:20] [Async Chat Thread - #22/INFO]: [Not Secure] <LordVivan9092> stick 
-[14:46:26] [Async Chat Thread - #23/INFO]: [Not Secure] <LordVivan9092> ye wood
-[14:46:35] [Async Chat Thread - #22/INFO]: [Not Secure] <LordVivan9092> hai
-[14:46:43] [Async Chat Thread - #23/INFO]: [Not Secure] <Shubh121> nope
-[14:47:33] [Server thread/INFO]: LordVivan9092 fell from a high place
-[14:48:08] [Async Chat Thread - #25/INFO]: [Not Secure] <Shubh121> upar dioride ha kya
-[14:48:26] [Async Chat Thread - #24/INFO]: [Not Secure] <LordVivan9092> hai
-[14:48:34] [Async Chat Thread - #25/INFO]: [Not Secure] <Shubh121> rahene do ho gaya
-[14:50:01] [Async Chat Thread - #27/INFO]: [Not Secure] <LordVivan9092> bro there is multiple cave make multiple entry 
-[14:50:29] [Async Chat Thread - #26/INFO]: [Not Secure] <Shubh121> nhi be or bhi kam ha
-[14:50:41] [Async Chat Thread - #27/INFO]: [Not Secure] <Shubh121> ek entry kafhi ha
-[14:56:28] [Async Chat Thread - #29/INFO]: [Not Secure] <Shubh121> where r u
-[14:59:42] [Async Chat Thread - #31/INFO]: [Not Secure] <Shubh121> so ja be
-[15:00:06] [Server thread/INFO]: Shubh121 has made the advancement [Not Today, Thank You]
-[15:05:57] [Async Chat Thread - #33/INFO]: [Not Secure] <Shubh121> bro ek min left kro day karna ha
-[15:06:58] [Async Chat Thread - #35/INFO]: [Not Secure] <LordVivan9092> bro
-[15:07:12] [Async Chat Thread - #34/INFO]: [Not Secure] <LordVivan9092> xp fram build 
-[15:07:17] [Async Chat Thread - #35/INFO]: [Not Secure] <Shubh121> kaha par
-[15:07:28] [Async Chat Thread - #34/INFO]: [Not Secure] <LordVivan9092> your choice 
-[15:07:44] [Async Chat Thread - #35/INFO]: [Not Secure] <Shubh121> top mountain me
-[15:07:50] [Async Chat Thread - #35/INFO]: [Not Secure] <LordVivan9092> ok
-[15:07:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Shubh121> less blocks use karenge
-[15:08:16] [Async Chat Thread - #35/INFO]: [Not Secure] <LordVivan9092> ok but work to ho ga
-[15:17:25] [Server thread/INFO]: LordVivan9092 fell from a high place
-[15:17:32] [Async Chat Thread - #37/INFO]: [Not Secure] <Shubh121> lol
-[15:17:38] [Async Chat Thread - #37/INFO]: [Not Secure] <Shubh121> look
-[15:17:59] [Async Chat Thread - #36/INFO]: [Not Secure] <LordVivan9092> :)
-[15:18:05] [Async Chat Thread - #37/INFO]: [Not Secure] <Shubh121> lo;
-[15:18:09] [Async Chat Thread - #36/INFO]: [Not Secure] <Shubh121> lol
-[15:18:12] [Async Chat Thread - #37/INFO]: [Not Secure] <LordVivan9092> xp fram
-[15:18:17] [Async Chat Thread - #36/INFO]: [Not Secure] <Shubh121> soja
-[15:18:50] [Async Chat Thread - #37/INFO]: [Not Secure] <Shubh121> soja
-[15:19:45] [Async Chat Thread - #36/INFO]: [Not Secure] <LordVivan9092> xp fram
-[15:19:50] [Async Chat Thread - #36/INFO]: [Not Secure] <Shubh121> tu bana
-[15:20:26] [Async Chat Thread - #36/INFO]: [Not Secure] <LordVivan9092> nhi aata 
-[15:20:32] [Async Chat Thread - #37/INFO]: [Not Secure] <Shubh121> youtube
-[15:20:45] [Async Chat Thread - #37/INFO]: [Not Secure] <LordVivan9092> pls
-[15:20:55] [Async Chat Thread - #36/INFO]: [Not Secure] <Shubh121> ok tommorow
-[15:22:08] [Async Chat Thread - #39/INFO]: [Not Secure] <LordVivan9092> lund hai kya 
-[15:22:24] [Async Chat Thread - #38/INFO]: [Not Secure] <Shubh121> sperm
-[15:22:34] [Async Chat Thread - #39/INFO]: [Not Secure] <LordVivan9092> chi
-[15:22:35] [Async Chat Thread - #39/INFO]: [Not Secure] <Shubh121> :0
-[15:22:53] [Async Chat Thread - #39/INFO]: [Not Secure] <Shubh121> roj karta ha
-[15:22:56] [Async Chat Thread - #38/INFO]: [Not Secure] <Shubh121> aj chi
-[15:23:14] [Async Chat Thread - #39/INFO]: [Not Secure] <LordVivan9092> you want to taste 
-[15:23:24] [Server thread/INFO]: Shubh121 was slain by LordVivan9092
-[15:24:05] [Async Chat Thread - #38/INFO]: [Not Secure] <LordVivan9092> xp fram bana
-[15:24:13] [Async Chat Thread - #39/INFO]: [Not Secure] <Shubh121> kal
-[15:24:22] [Async Chat Thread - #39/INFO]: [Not Secure] <LordVivan9092> nhi pls 
-[15:24:28] [Async Chat Thread - #38/INFO]: [Not Secure] <LordVivan9092> :(
-[15:24:31] [Async Chat Thread - #39/INFO]: [Not Secure] <LordVivan9092> :(
-[15:24:34] [Async Chat Thread - #38/INFO]: [Not Secure] <LordVivan9092> :(
-[15:26:51] [Server thread/INFO]: LordVivan9092 was doomed to fall by Shubh121
-[15:27:15] [Server thread/INFO]: Shubh121 was burned to a crisp while fighting LordVivan9092
-[15:28:18] [Async Chat Thread - #41/INFO]: [Not Secure] <Shubh121> randi mat kar
-[15:28:22] [Async Chat Thread - #40/INFO]: [Not Secure] <Shubh121> :(
-[15:28:45] [Server thread/INFO]: Shubh121 was impaled by LordVivan9092
-[15:29:59] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[15:30:37] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[15:31:15] [Async Chat Thread - #43/INFO]: [Not Secure] <LordVivan9092> bro
-[15:31:23] [Async Chat Thread - #42/INFO]: [Not Secure] <Shubh121> ha
-[15:31:27] [Async Chat Thread - #43/INFO]: [Not Secure] <LordVivan9092> look
-[15:33:09] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[15:33:14] [Async Chat Thread - #45/INFO]: [Not Secure] <Shubh121> bhai mat karna
-[15:33:39] [Server thread/INFO]: LordVivan9092 was slain by Shubh121
-[15:33:48] [Async Chat Thread - #44/INFO]: [Not Secure] <LordVivan9092> bro
-[15:34:39] [Server thread/INFO]: Shubh121 burned to death
-[15:34:47] [Async Chat Thread - #45/INFO]: [Not Secure] <LordVivan9092> lol
-[15:34:56] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[15:35:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[15:35:11] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] LordVivan9092 has disconnected from the Java server because of Bedrock client timed out
-[15:35:11] [Server thread/INFO]: LordVivan9092 lost connection: Disconnected
-[15:35:11] [Server thread/INFO]: LordVivan9092 left the game
-[15:35:12] [Server thread/INFO]: Incorrect argument for command
-[15:35:12] [Server thread/INFO]: weather set rain<--[HERE]
-[15:35:20] [Server thread/INFO]: Set the weather to rain
-[15:36:33] [Server thread/INFO]: Made Shubh121 a server operator
-[15:36:56] [Server thread/INFO]: Shubh121 issued server command: /weather rain
-[15:36:56] [Server thread/INFO]: [Shubh121: Set the weather to rain]
-[15:37:23] [Server thread/INFO]: Shubh121 issued server command: /weather rain
-[15:37:23] [Server thread/INFO]: [Shubh121: Set the weather to rain]
-[15:54:57] [Server thread/INFO]: Made Shubh121 no longer a server operator
+[10:52:42] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
+[10:52:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] 
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-592a58a)
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] 
+[10:52:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:52:45] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:4326
+[10:52:45] [Server thread/INFO]: [Geyser-Spigot] Done (2.724s)! Run /geyser help for help!
+[10:52:45] [Server thread/INFO]: Done (15.552s)! For help, type "help"
+[10:52:45] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[10:53:46] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /127.133.90.184:42707 tried to connect!
+[10:53:51] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Player connected with username King47474747
+[10:53:51] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] King47474747 (logged in as: King47474747) has connected to the Java server
+[10:53:51] [User Authenticator #1/INFO]: UUID of player King47474747 is 64f12657-accf-3ad0-9e45-2d3977da3f23
+[10:53:52] [Server thread/INFO]: King47474747 joined the game
+[10:53:52] [Server thread/INFO]: King47474747[/127.133.90.184:0] logged in with entity id 357 at ([world]0.5, 66.0, 4.5)
+[10:53:54] [User Authenticator #2/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[10:53:57] [Server thread/INFO]: Shubh121 joined the game
+[10:53:57] [Server thread/INFO]: Shubh121[/127.146.114.130:59713] logged in with entity id 420 at ([world]42.80456693376507, 71.0, 16.294369427941437)
+[10:55:00] [defaultEventLoopGroup-6-2/INFO]: [Geyser-Spigot] King47474747 has disconnected from the Java server because of Bedrock client disconnected
+[10:55:00] [Server thread/INFO]: King47474747 lost connection: Disconnected
+[10:55:00] [Server thread/INFO]: King47474747 left the game
+[10:56:15] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /127.148.61.183:49479 tried to connect!
+[10:56:17] [epollEventLoopGroup-3-3/INFO]: [Geyser-Spigot] Player connected with username King47474747
+[10:56:17] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] King47474747 (logged in as: King47474747) has connected to the Java server
+[10:56:17] [User Authenticator #3/INFO]: UUID of player King47474747 is 64f12657-accf-3ad0-9e45-2d3977da3f23
+[10:56:17] [Server thread/INFO]: King47474747 joined the game
+[10:56:17] [Server thread/INFO]: King47474747[/127.148.61.183:0] logged in with entity id 775 at ([world]32.307476, 74.0, 19.670254)
+[10:56:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> hi rayan
+[10:57:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> come into my house
+[10:57:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> abe wo mine ha
+[10:57:56] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> mere bina itna kuch bana liya 
+[10:57:59] [Async Chat Thread - #0/INFO]: [Not Secure] <King47474747> lodu
+[10:58:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> tu ata hi nih tha
+[10:58:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> bhai ye farm base ha
+[10:58:21] [Server thread/INFO]: King47474747 has made the advancement [Suit Up]
+[10:58:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> abhi real wala bana ha
+[10:58:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> giri bhi nhi ata ha
+[10:58:45] [Async Chat Thread - #0/INFO]: [Not Secure] <King47474747> keep inventory on hai? 
+[10:58:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> ha
+[10:59:11] [Server thread/INFO]: King47474747 was slain by Shubh121
+[10:59:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> dekho on ha
+[10:59:18] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> bsdk
+[10:59:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> abe upar side bed ha spawn point set karle
+[10:59:41] [Server thread/INFO]: King47474747 has made the advancement [Sweet Dreams]
+[10:59:46] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> fuckkk youu
+[10:59:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> sooo ja
+[10:59:54] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> :) 
+[10:59:59] [Async Chat Thread - #0/INFO]: [Not Secure] <King47474747> fuckk you :) 
+[11:00:05] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> abe lode me kam kar raha hu
+[11:00:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> history ka
+[11:00:20] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> 👍
+[11:00:29] [Server thread/INFO]: King47474747 has made the advancement [We Need to Go Deeper]
+[11:00:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> lol
+[11:01:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> mera private server paheli baar kam kiya
+[11:01:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> guess kar kkitne
+[11:02:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Shubh121> kill me
+[11:02:27] [Server thread/INFO]: Shubh121 was slain by King47474747
+[11:02:46] [Server thread/INFO]: King47474747 was slain by Shubh121
+[11:02:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> revenge
+[11:02:57] [Async Chat Thread - #1/INFO]: [Not Secure] <King47474747> land
+[11:03:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> bhai tu khel me ja raha kam karne abhi bad me auunga
+[11:03:16] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[11:03:16] [Server thread/INFO]: Shubh121 left the game
