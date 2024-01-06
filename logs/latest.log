@@ -157,3 +157,130 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.server.v1_20_R3.Login
 [11:03:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Shubh121> bhai tu khel me ja raha kam karne abhi bad me auunga
 [11:03:16] [Server thread/INFO]: Shubh121 lost connection: Disconnected
 [11:03:16] [Server thread/INFO]: Shubh121 left the game
+[11:04:42] [Server thread/INFO]: King47474747 has made the advancement [Acquire Hardware]
+[11:04:57] [Server thread/INFO]: King47474747 has made the advancement [Isn't It Iron Pick]
+[11:05:14] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[11:05:14] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[11:05:14] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22mGeyser-Spigot: [0;37;1mAll commands for Geyser-Spigot[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22mViaVersion: [0;37;1mAll commands for ViaVersion[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/damage: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/fillbiome: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/geyser: [0;37;1mThe main command for Geyser.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mShows the help menu[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/place: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/random: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/return: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/ride: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tick: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/viaversion: [0;37;1mShows ViaVersion Version and more.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[11:05:14] [Server thread/INFO]: [0;37;1m[0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[11:05:45] [defaultEventLoopGroup-6-3/INFO]: [Geyser-Spigot] King47474747 has disconnected from the Java server because of Bedrock client disconnected
+[11:05:45] [Server thread/INFO]: King47474747 lost connection: Disconnected
+[11:05:45] [Server thread/INFO]: King47474747 left the game
+[11:05:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:05:48] [Server thread/INFO]: tell<--[HERE]
+[11:05:55] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[11:05:55] [Server thread/INFO]: tell hel,o<--[HERE]
+[11:06:05] [User Authenticator #4/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[11:06:06] [Server thread/INFO]: Shubh121 joined the game
+[11:06:06] [Server thread/INFO]: Shubh121[/127.146.114.130:49667] logged in with entity id 2469 at ([world]64.45415051065841, 71.0, 25.657412868753266)
+[11:06:07] [Server thread/INFO]: Made Shubh121 a server operator
+[11:06:24] [Server thread/INFO]: Shubh121 issued server command: /tell Shubh121 hello
+[11:06:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Shubh121> Shubh121 hello
+[11:06:48] [Server thread/INFO]: You whisper to Shubh121: hello
+[11:07:10] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[11:07:10] [Server thread/INFO]: Shubh121 left the game
+[11:09:30] [User Authenticator #5/INFO]: UUID of player Shubh121 is e112b4c7-bb3e-38cc-809d-845b7cd6c4a2
+[11:09:31] [Server thread/INFO]: Shubh121 joined the game
+[11:09:31] [Server thread/INFO]: Shubh121[/127.146.114.130:45239] logged in with entity id 2654 at ([world]54.66968852887623, 72.0, 29.402086905010798)
+[11:09:54] [Server thread/INFO]: Shubh121 lost connection: Disconnected
+[11:09:54] [Server thread/INFO]: Shubh121 left the game
+[11:11:34] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] /127.148.61.183:53597 tried to connect!
+[11:11:40] [epollEventLoopGroup-3-4/INFO]: [Geyser-Spigot] Player connected with username King47474747
+[11:11:40] [defaultEventLoopGroup-6-4/INFO]: [Geyser-Spigot] King47474747 (logged in as: King47474747) has connected to the Java server
+[11:11:40] [User Authenticator #6/INFO]: UUID of player King47474747 is 64f12657-accf-3ad0-9e45-2d3977da3f23
+[11:11:40] [Server thread/INFO]: King47474747 joined the game
+[11:11:40] [Server thread/INFO]: King47474747[/127.148.61.183:0] logged in with entity id 2720 at ([world]55.259365, 72.5625, 31.368029)
